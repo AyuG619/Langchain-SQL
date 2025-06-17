@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_title,salary,department_id
+1,Ayush,Sharma,ayush.sharma@example.com,+91-9990012345,2023-04-01,"Data Analyst",75000.00,101
+2,Sneha,Mehra,sneha.mehra@example.com,+91-9810212345,2022-11-15,"Software Engineer",85000.00,102
+3,Rahul,Verma,rahul.verma@example.com,+91-9876543210,2021-08-10,"HR Manager",92000.00,103
