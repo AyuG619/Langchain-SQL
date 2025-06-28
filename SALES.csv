@@ -1,0 +1,61 @@
+sales_id,salesperson_name,sales,profit,city,month_name,month_number
+1,"John Smith",125000.00,31250.00,"New York",January,1
+2,"Sarah Johnson",98000.00,24500.00,"Los Angeles",January,1
+3,"Michael Brown",112000.00,28000.00,Chicago,January,1
+4,"Emily Davis",87000.00,21750.00,Houston,January,1
+5,"David Wilson",95000.00,23750.00,Boston,January,1
+6,"David Wilson",145000.00,36250.00,"New York",February,2
+7,"Jessica Lee",92000.00,23000.00,"San Francisco",February,2
+8,"Robert Taylor",105000.00,26250.00,Chicago,February,2
+9,"Jennifer Martinez",78000.00,19500.00,Miami,February,2
+10,"John Smith",110000.00,27500.00,Seattle,February,2
+11,"John Smith",135000.00,33750.00,"New York",March,3
+12,"Sarah Johnson",102000.00,25500.00,"Los Angeles",March,3
+13,"Michael Brown",118000.00,29500.00,Chicago,March,3
+14,"Emily Davis",95000.00,23750.00,Houston,March,3
+15,"David Wilson",125000.00,31250.00,Dallas,March,3
+16,"David Wilson",155000.00,38750.00,"New York",April,4
+17,"Jessica Lee",110000.00,27500.00,"San Francisco",April,4
+18,"Robert Taylor",125000.00,31250.00,Chicago,April,4
+19,"Jennifer Martinez",88000.00,22000.00,Miami,April,4
+20,"Sarah Johnson",97500.00,24375.00,Phoenix,April,4
+21,"John Smith",142000.00,35500.00,"New York",May,5
+22,"Sarah Johnson",115000.00,28750.00,"Los Angeles",May,5
+23,"Michael Brown",132000.00,33000.00,Chicago,May,5
+24,"Emily Davis",102000.00,25500.00,Houston,May,5
+25,"Robert Taylor",118000.00,29500.00,Philadelphia,May,5
+26,"David Wilson",165000.00,41250.00,"New York",June,6
+27,"Jessica Lee",122000.00,30500.00,"San Francisco",June,6
+28,"Robert Taylor",138000.00,34500.00,Chicago,June,6
+29,"Jennifer Martinez",95000.00,23750.00,Miami,June,6
+30,"Michael Brown",110000.00,27500.00,Atlanta,June,6
+31,"John Smith",152000.00,38000.00,"New York",July,7
+32,"Sarah Johnson",128000.00,32000.00,"Los Angeles",July,7
+33,"Michael Brown",142000.00,35500.00,Chicago,July,7
+34,"Emily Davis",112000.00,28000.00,Houston,July,7
+35,"David Wilson",135000.00,33750.00,Denver,July,7
+36,"David Wilson",175000.00,43750.00,"New York",August,8
+37,"Jessica Lee",132000.00,33000.00,"San Francisco",August,8
+38,"Robert Taylor",148000.00,37000.00,Chicago,August,8
+39,"Jennifer Martinez",105000.00,26250.00,Miami,August,8
+40,"John Smith",125000.00,31250.00,"Washington DC",August,8
+41,"John Smith",162000.00,40500.00,"New York",September,9
+42,"Sarah Johnson",138000.00,34500.00,"Los Angeles",September,9
+43,"Michael Brown",152000.00,38000.00,Chicago,September,9
+44,"Emily Davis",122000.00,30500.00,Houston,September,9
+45,"Robert Taylor",135000.00,33750.00,"San Diego",September,9
+46,"David Wilson",185000.00,46250.00,"New York",October,10
+47,"Jessica Lee",142000.00,35500.00,"San Francisco",October,10
+48,"Robert Taylor",158000.00,39500.00,Chicago,October,10
+49,"Jennifer Martinez",115000.00,28750.00,Miami,October,10
+50,"Sarah Johnson",128000.00,32000.00,Austin,October,10
+51,"John Smith",172000.00,43000.00,"New York",November,11
+52,"Sarah Johnson",148000.00,37000.00,"Los Angeles",November,11
+53,"Michael Brown",162000.00,40500.00,Chicago,November,11
+54,"Emily Davis",132000.00,33000.00,Houston,November,11
+55,"David Wilson",145000.00,36250.00,Portland,November,11
+56,"David Wilson",195000.00,48750.00,"New York",December,12
+57,"Jessica Lee",152000.00,38000.00,"San Francisco",December,12
+58,"Robert Taylor",168000.00,42000.00,Chicago,December,12
+59,"Jennifer Martinez",125000.00,31250.00,Miami,December,12
+60,"John Smith",155000.00,38750.00,"Las Vegas",December,12
